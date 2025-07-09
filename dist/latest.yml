@@ -1,8 +1,8 @@
-version: 0.1.9
+version: 0.1.10
 files:
-  - url: BlendiAppV2-Setup-0.1.9.exe
-    sha512: 6f/++1QZvSpoZZSPaQLbxw1cc3RyoJ27bTQTBhrgDvlycLV5a7+kzFJdMgwtfqk4CveiUpGKhAo8sUKuWNsVnw==
-    size: 98651031
-path: BlendiAppV2-Setup-0.1.9.exe
-sha512: 6f/++1QZvSpoZZSPaQLbxw1cc3RyoJ27bTQTBhrgDvlycLV5a7+kzFJdMgwtfqk4CveiUpGKhAo8sUKuWNsVnw==
-releaseDate: '2025-07-09T08:57:08.107Z'
+  - url: BlendiAppV2-Setup-0.1.10.exe
+    sha512: xTLs1QjFCvbQA+JrTL6IxRTMaVbevTfcfJE31nejPY5wDZcm5UJjaAedTJJrvsO8uaAeNoKeHKSUnd8we3k+RQ==
+    size: 98651008
+path: BlendiAppV2-Setup-0.1.10.exe
+sha512: xTLs1QjFCvbQA+JrTL6IxRTMaVbevTfcfJE31nejPY5wDZcm5UJjaAedTJJrvsO8uaAeNoKeHKSUnd8we3k+RQ==
+releaseDate: '2025-07-09T13:31:41.742Z'
